@@ -69,18 +69,20 @@ body{
 
 .profile-photo {
 
+    margin-top: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
-    height: 6rem;
-    width: 6rem;
+  
+    
 }
 
 .instagram-loguin {
+    margin-top: 10px;
     background-color: #0095f6;
-    color: white;
+    color: #ffffff;
     padding: 8px;
     border-radius: 4px;
 }
